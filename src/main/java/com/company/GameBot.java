@@ -141,8 +141,5 @@ public class GameBot extends TelegramLongPollingBot {
     public String getBotUsername() {
         return "find_the_number_bot";
     }
-    @Override
-    public String getBotToken() {
-        return "8704262473:AAHUOSkjU-p2skLimv5FXUQt8F6DZHFRBMI";
-    }
+
 }
